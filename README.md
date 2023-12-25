@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/5e/1d/9a/5e1d9a8dee2be1f14f64151caa1d9fda.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/20/61/6d/20616df5af8271d429e3fcbc3a648f6c.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Riya Sarkar</h2>
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about web-development using languages like HTML, CSS, JS and PHP.\
 ✍️ &nbsp;In my free time, I read and write novels and listen to music.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at riyysch@gmail.com :D.\
+✉️ &nbsp;You can shoot me an email at riyysch@gmail.com :D.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
