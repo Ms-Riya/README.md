@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/20/61/6d/20616df5af8271d429e3fcbc3a648f6c.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/17/77/04/177704cac257585953ad9ca66646a911.jpgg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Riya Sarkar</h2>
 
