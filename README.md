@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying bachelor of computer application at PES University Bangalore.\
 🌱 &nbsp;I'm on track for learning more about web-development using languages like HTML, CSS, JS and PHP.\
-✍️ &nbsp;In my free time, I read and write novels and listen to music.\
+✍️ &nbsp;In my free time, I read novels, crochet , watch anime ,and sketch , .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at riyysch@gmail.com :D.
 
